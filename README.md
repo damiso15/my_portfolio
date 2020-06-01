@@ -1,2 +1,2 @@
 # my_portfolio
-A portfolio nad blog website written in Django
+A portfolio and blog website written in Django
